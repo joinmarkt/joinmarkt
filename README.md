@@ -17,12 +17,18 @@ Sell digital goods with a branded storefront, hosted checkout, instant delivery,
 
 [![Website](https://img.shields.io/badge/Website-joinmarkt.com-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://joinmarkt.com)
 [![Documentation](https://img.shields.io/badge/Documentation-docs.joinmarkt.com-2563eb?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.joinmarkt.com)
-[![Status](https://img.shields.io/badge/Status-page-status.joinmarkt.com-2563eb?style=for-the-badge&logo=statuspage&logoColor=white)](https://status.joinmarkt.com)
+[![Live_demo](https://img.shields.io/badge/Live_demo-dashboard-2563eb?style=for-the-badge&logo=layout&logoColor=white)](https://joinmarkt.com/demo/dashboard)
 
 <br />
 <br />
 
-<img src="https://cdn.joinmarkt.com/join-markt/hero-dashboard-1200.webp?v=4" alt="Join Markt merchant dashboard" width="100%" style="max-width: 920px;">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joinmarkt/joinmarkt/main/assets/dashboard-dark.webp">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joinmarkt/joinmarkt/main/assets/dashboard-light.webp">
+  <img src="https://raw.githubusercontent.com/joinmarkt/joinmarkt/main/assets/dashboard-light.webp" alt="Join Markt merchant dashboard — My Store demo" width="100%" style="max-width: 920px;">
+</picture>
+
+<sub>Product UI — same asset as joinmarkt.com and the public <a href="https://joinmarkt.com/demo/dashboard">dashboard demo</a> (My Store).</sub>
 
 </div>
 
